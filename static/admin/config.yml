@@ -1,7 +1,9 @@
 backend: # Set up your backend
   name: gitlab
+  branch: master # Branch to update
+  repo: masia02/gatsby-starter-novela
 
-
+local_backend: true # Optional if you want to use the local proxy mode
 
 publish_mode: editorial_workflow
 media_folder: media    # I'm not using these default media directories at the moment.
