@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `dApps Play`,
+    name: `dApps Play`,
+    siteUrl: `https://dapps-play.net`,
+    description: `Spatial Web XR 3D web3 Blockchain AI 5G IOTなど先端技術を好む雑記ブログ`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Spatial Web XR 3D web3 Blockchain AI 5G IOTなど先端技術を好む雑記ブログ`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/masia02`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/masia02`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/masia02`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/masia02/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `facebook`,
+        url: `https://facebook.com/masia02`,
       },
     ],
   },
