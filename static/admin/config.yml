@@ -1,7 +1,7 @@
 backend: # Set up your backend
-  name: git-gateway
-  branch: master
-  repo: masia02/gatsby-starter-novela
+  name: gitlab
+
+
 
 publish_mode: editorial_workflow
 media_folder: media    # I'm not using these default media directories at the moment.
