@@ -1,5 +1,5 @@
 backend: # Set up your backend
-  name: github
+  name: git-gateway
   branch: master
   repo: masia02/gatsby-starter-novela
 
